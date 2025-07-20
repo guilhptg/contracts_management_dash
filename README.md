@@ -1,5 +1,9 @@
 # 📊 Dashboard de Contratos de Projeto - Streamlit App
 
+[Link](https://enterprise-balance.streamlit.app/)
+
+---
+
 Este é um aplicativo web interativo desenvolvido em **Python** utilizando **Streamlit** para visualização de dados, **Pandas** para limpeza e tratamento de dados, e **SQLite** como banco de dados relacional. A autenticação de usuários e a modelagem do banco foram feitas com **SQLAlchemy**.
 
 ---
